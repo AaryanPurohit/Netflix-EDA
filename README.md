@@ -1,4 +1,7 @@
-# Netflix-EDA
+# Netflix EDA (Exploratory Data Analysis)
+![image](https://github.com/AaryanPurohit/Netflix-EDA/assets/112640418/1a960059-3f17-4544-801f-6fa382d45b4f)
+
+
 
 ## Overview📺🍿
 
@@ -58,3 +61,7 @@ The analysis provides insights into the Netflix dataset, including:
 3. Top directors, actors, and genres.
 4. Average duration of movies and seasons of TV shows.
 5. Content added over the years, months, and weekdays.
+
+Explore this repository to uncover fascinating details about Netflix's content library!!!
+
+
