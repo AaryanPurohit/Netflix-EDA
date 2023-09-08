@@ -56,11 +56,19 @@ The dataset has a list of all the TV shows/movies available on Netflix:
 ## Results📊
 The analysis provides insights into the Netflix dataset, including:
 
-1. Distribution of movies vs. TV shows.
-2. Content distribution across countries.
-3. Top directors, actors, and genres.
-4. Average duration of movies and seasons of TV shows.
-5. Content added over the years, months, and weekdays.
+1. **Countrywise Content Rating Classification**: Explore how content ratings are distributed across different countries.
+2. **Distribution of Genres Across Countries**: Understand the prevalence of different genres in various countries' content offerings.
+3. **Distribution of Genre and Rating**: Examine the relationship between genres and content ratings, revealing which genres are most associated with certain ratings.
+4. **Correlation Analysis**: Determine the correlations within the dataset, highlighting any significant relationships between variables.
+5. **Most Active Actors**: Identify the most active actors for movies and TV shows separately, showcasing the talents that dominate Netflix.
+6. **Duration and Seasons Range**: Discover the typical duration range for movies and the number of seasons for TV shows, offering insights into content length.
+7. **Average Content Duration**: Calculate the average duration for movies and TV show seasons, providing a general idea of content length.
+8. **Content Addition Trends**: Find out when Netflix adds movies and TV shows most frequently over the years, months, and weekdays.
+9. **Content Age Grouping**: Categorize content based on age group suitability, helping viewers choose content that matches their preferences.
+10. **Top 10 Genres**: List the top 10 genres based on popularity within the Netflix library.
+11. **Top 10 Directors**: Highlight the top 10 directors who have contributed significantly to Netflix's content.
+12. **Content Distribution Across Countries**: Examine how content is distributed across different countries, showcasing Netflix's global reach.
+13. **Distribution of Content**: Explore the distribution of content between movies and TV shows, revealing the balance in Netflix's offerings.
 
 Explore this repository to uncover fascinating details about Netflix's content library!!!
 
