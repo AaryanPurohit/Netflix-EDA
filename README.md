@@ -37,18 +37,18 @@ Netflix_Data_Analysis.ipynb: The Python script for data analysis.
 ## Understanding the Dataset📊
 
 The dataset has a list of all the TV shows/movies available on Netflix:
-**Show_id**: Unique ID for every Movie / Tv Show
-**Type**: Identifier - A Movie or TV Show
-**Title**: Title of the Movie / Tv Show
-**Director**: Director of the Movie
-**Cast**: Actors involved in the movie/show
-**Country**: Country where the movie/show was produced
-**Date_added**: Date it was added on Netflix
-**Release_year**: Actual Release year of the movie/show
-**Rating**: Maturity Rating of the movie/show
-**Duration**: Total Duration - in minutes or number of seasons
-**Listed_in**: Genre
-**Description**: The summary description
+1. **Show_id**: Unique ID for every Movie / Tv Show
+2. **Type**: Identifier - A Movie or TV Show
+3. **Title**: Title of the Movie / Tv Show
+4. **Director**: Director of the Movie
+5. **Cast**: Actors involved in the movie/show
+6. **Country**: Country where the movie/show was produced
+7. **Date_added**: Date it was added on Netflix
+8. **Release_year**: Actual Release year of the movie/show
+9. **Rating**: Maturity Rating of the movie/show
+10. **Duration**: Total Duration - in minutes or number of seasons
+11. **Listed_in**: Genre
+12. **Description**: The summary description
 
 ## Results📊
 The analysis provides insights into the Netflix dataset, including:
