@@ -70,6 +70,6 @@ The analysis provides insights into the Netflix dataset, including:
 12. **Content Distribution Across Countries**: Examine how content is distributed across different countries, showcasing Netflix's global reach.
 13. **Distribution of Content**: Explore the distribution of content between movies and TV shows, revealing the balance in Netflix's offerings.
 
-Explore this repository to uncover fascinating details about Netflix's content library!!!
+Explore this repository to uncover fascinating details about Netflix's content library!!
 
 
